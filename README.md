@@ -1,96 +1,93 @@
-<div align="center">
-  <img src="https://media.tenor.com/GI57gSWljJMAAAAC/ghibli.gif" alt="Welcome GIF">
-</div>
-<br>
-
-## Hi there! 👋
-
-I'm **Rezezi Axcel**, but you can call me **Zezi**! I'm a passionate **JavaScript Developer** from Indonesia 🇮🇩 who loves coding and building innovative solutions. My journey in programming began when I was in **6th grade** (2018) and started exploring **HTML, CSS, and JavaScript**.
-
-Since then, I've been mastering various skills and frameworks in web development, specializing in JavaScript.
-
----
-
-### 🌱 Tech Skills:
-
-- **Languages:**
-  - JavaScript (Expert)
-  - HTML/CSS
-  - TypeScript
-
-- **Frameworks & Tools:**
-  - React.js
-  - Node.js
-  - Express.js
-  - Next.js
-  - Tailwind CSS
-  - Bootstrap
-
-- **Other Tools:**
-  - Git & GitHub
-  - MongoDB
-  - Postman
-
----
-
-### 🏆 Achievements:
-
-- **2nd Place** - Web Technologies at Central Jakarta LKS 2023 🏅
-- **2nd Place** - Cyber Security at Central Jakarta LKS 2024 🏅
-- **5th Place** - Cyber Security at DKI Jakarta LKS 2024 🏅
-
----
-
-### 🔭 Current Projects:
-
-- **"Zezi Platform"**: A freelance platform built with JavaScript, Node.js, and MongoDB.
-
----
-
-### 🌟 Open Source Contributions:
-
-- **[BellShade OpenAPI](https://github.com/bellshade/open-api)**: Actively contributing as a maintainer and leader.
-
----
-
-### 💡 Fun Facts About Me:
-
-```javascript
-const Zezi = {
-  pronouns: "He" | "Him",
-  hobbies: ["Coding", "Gaming", "Exploring JavaScript frameworks"],
-  expertise: {
-    frontend: ["React", "Next.js"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB"]
-  },
-  askMeAbout: ["JavaScript", "Web Development", "Open Source"]
-};
-```
-
----
-
-### 📈 GitHub Stats:
+<a name="readme-top"></a>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezeziAxcel&show_icons=true&theme=dracula" alt="Top Languages">
+  <img height="150" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/74176356?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" />
 </div>
 
----
-
-### 📬 Connect with Me:
-
-- **LinkedIn**: [Visit My Profile](https://www.linkedin.com/in/rezezi-axcel)
-- **GitHub**: [GitHub Profile](https://github.com/RezeziAxcel)
-
----
-
-### ❤️ Support My Work:
-
-If you'd like to support me, you can [donate here](https://saweria.co/zsoft). Any contribution is greatly appreciated!
-
----
+###
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=RezeziAxcel" alt="Visitor Badge">
+  <a href="https://www.linkedin.com/in/rezezi-axcel/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://github.com/rezezi-axcel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  </a>
+  <a href="https://twitter.com/rezezi_axcel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
+  <a href="https://www.instagram.com/rezezi.axcel/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rezezi.axcel" />
+</div>
+
+###
+
+<h1 align="center">Hi There 👋, I'm Rezezi Axcel</h1>
+<h3 align="center">Aspiring Web Developer & Tech Enthusiast from Indonesia</h3>
+
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+###
+
+<p align="left">
+- 🌱 Currently learning: **Next.js, Laravel, and Tailwind CSS**<br>
+- 🎮 Passionate about building interactive web experiences<br>
+- 🚀 Focused on creating efficient and scalable web applications<br>
+- 🏫 Studying at **SMK Negeri 21 Jakarta**
+</p>
+
+###
+
+<h3 align="left">🛠️ Languages & Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="Laravel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+</div>
+
+###
+
+<h3 align="left">📈 GitHub Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rezezi-axcel&show_icons=true&theme=radical" height="150" alt="stats graph" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rezezi-axcel&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph" />
+</div>
+
+###
+
+<h3 align="left">📫 Contact Me</h3>
+
+###
+
+<p align="left">
+Feel free to reach out through my social media links above or send me an email at **rezezi.axcel@gmail.com**.
+</p>
+
+<p align="right"><a href="#readme-top">Back to Top ⬆️</a></p>
