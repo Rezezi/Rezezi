@@ -1,63 +1,59 @@
-# 🌟 Zezi's Portfolio
+# 🌟 Welcome to Axcel's GitHub! 🌟
 
-Welcome to my portfolio! 🚀 Here you'll find a showcase of my projects, skills, and achievements as a developer and designer. Feel free to explore and connect with me for collaborations or inquiries!
-
----
-
-## 🎯 About Me
-
-👋 Hi there! I'm **Rezezi Axcel** (you can call me Zezi), a passionate developer with a focus on building practical and functional web applications. My goal is to craft digital solutions that are both user-friendly and impactful.
-
-- **🌱 Currently Exploring:** Laravel and responsive design techniques
-- **🎨 Interests:** Coding, e-commerce platforms, and learning new frameworks
+Hi there! 👋 I'm **Axcel Rezezi**, a passionate developer and tech enthusiast currently exploring the worlds of **Backend Development** and **Game Development**.  
 
 ---
 
-## 🚀 Featured Projects
-
-### [GigFlow Management System](https://github.com/your-username/gigflow)
-A modern management system designed to streamline organizational workflows.
-- **Features:** Employee management, interactive dashboards, and responsive UI
-- **Technologies Used:** Laravel, Bootstrap 5, MySQL
-- **Live Demo:** [GigFlow](https://your-live-demo-link.com)
-
-### [Online Store](https://github.com/your-username/online-store)
-A fully functional e-commerce platform with a modern and intuitive interface.
-- **Features:** Product listings, shopping cart, and secure checkout system
-- **Technologies Used:** HTML, Tailwind CSS, JavaScript, MySQL
-- **Live Demo:** [Online Store](https://your-live-demo-link.com)
-
-> 📌 Check out more projects in the [Projects](https://github.com/your-username?tab=repositories) tab!
+## 🚀 About Me  
+- 🎓 **Status**: Student at **SMKN 21 Jakarta**  
+- 💻 **Favorite Languages**: JavaScript, TypeScript  
+- 🌟 **Interests**:  
+  - Backend Development  
+  - Game Development  
+- 🎮 **Hobbies**: Coding, Gaming, Playing Basketball  
+- 📫 **Reach Me At**:  
+  - **Email**: [axcelrezezi@example.com](mailto:axcelrezezi@example.com)  
+  - **Instagram**: [@rezezi_axcel](https://instagram.com/rezezi_axcel)  
+  - **Phone**: 087878254877  
 
 ---
 
-## 💻 Tech Stack
-
-- **Frontend:** HTML, CSS, Tailwind CSS, Bootstrap
-- **Backend:** Laravel, PHP
-- **Database:** MySQL
-- **Tools:** Git, Postman, VS Code
+## 🛠️ My Skills  
+- **Frameworks & Libraries**: React, Laravel, Vue.js  
+- **Tools**: Docker, MongoDB, Unity  
+- **Others**: Git, Tailwind CSS  
 
 ---
 
-## 🌐 Connect with Me
+## 📈 GitHub Stats  
 
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
-- **Email:** rezezi.axcel@example.com
-
----
-
-## 🖼️ Sneak Peek
-
-![Portfolio Preview](utss.jpg)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rezezi&show_icons=true&theme=radical" alt="GitHub Stats" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rezezi&theme=radical" alt="GitHub Streak" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezezi&layout=compact&theme=radical" alt="Top Languages" height="150px" />
+</div>  
 
 ---
 
-## ⭐ Show Your Support
+## 🌟 Featured Projects  
 
-If you like what you see, feel free to ⭐ this repository. Your support motivates me to create even more useful projects!
+### 🎮 **Game Development**  
+- **[Project 1](https://github.com/rezezi/project1)** - A fun and interactive game I developed using Unity.  
+
+### 🛠️ **Backend Development**  
+- **[Project Gabut](https://github.com/rezezi/project-gabut)** - A backend project showcasing advanced APIs with Laravel.  
 
 ---
 
-Thank you for visiting my portfolio! Let’s create something impactful together. 🚀
+## 🌐 Connect With Me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rezezi)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rezezi_axcel)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axcelrezezi@example.com)  
+
+---
+
+<div align="center">
+  🚀 **"Keep Learning, Keep Growing, and Never Stop Coding!"** 🚀
+</div>
 
