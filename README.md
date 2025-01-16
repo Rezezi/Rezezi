@@ -57,27 +57,19 @@ Hi there! 👋 I'm **Axcel Rezezi**, a passionate developer and tech enthusiast 
 
 ---
 
-## 🏆 Highlights & Achievements  
+## 🏆 Certifications  
 
-- 🏅 **Hackathon Finalist 2024**: Participated in a nationwide hackathon and developed a solution for e-commerce integration.
-- 🌟 **Open Source Contributor**: Contributed to various open source projects, including documentation and feature development.
-- 🎓 **Certifications**: Completed online courses on React, Laravel, and Docker.
-
----
-
-## 🖼️ Showcase  
-
-Here’s a quick glimpse of my work:
-
-![Preview](https://via.placeholder.com/800x400.png?text=Your+Amazing+Projects+Here)
+- 🎓 **React for Beginners** - Completed an online course covering the basics of React and its ecosystem.
+- 🎓 **Laravel Essentials** - Gained proficiency in building web applications using Laravel.
+- 🎓 **Docker Mastery** - Learned how to containerize applications and manage them effectively with Docker.
 
 ---
 
 ## 📜 Fun Facts About Me  
 
-- I can solve a Rubik's Cube in under 2 minutes! 🕒
-- I enjoy creating pixel art in my free time. 🎨
-- My dream is to develop a globally popular indie game. 🌍
+- I'm an avid gamer who loves exploring new titles and mechanics. 🎮
+- I enjoy playing basketball with friends during weekends. 🏀
+- I dream of creating a game that combines education and fun for younger audiences. 🌟
 
 ---
 
