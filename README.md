@@ -14,7 +14,7 @@ Hi there! 👋 I'm **Axcel Rezezi**, a passionate developer and tech enthusiast 
 - 📫 **Reach Me At**:  
   - **Email**: [axcelrezezi@example.com](mailto:axcelrezezi@example.com)  
   - **Instagram**: [@rezezi_axcel](https://instagram.com/rezezi_axcel)  
-  - **Phone**: 087878254877  
+  
 
 ---
 
