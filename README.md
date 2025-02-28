@@ -1,7 +1,7 @@
 # 🌟 Welcome to Axcel's GitHub! 🌟
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="150" height="150" style="border-radius: 50%" alt="Axcel's Profile Picture" />
+  <img src="./foto.jpg" width="150" height="150" style="border-radius: 50%" alt="Axcel's Profile Picture" />
 </div>
 
 ## 🚀 About Me  
@@ -69,4 +69,3 @@
 <div align="center">
   🚀 **"Code, Create, and Conquer!"** 🚀
 </div>
-
