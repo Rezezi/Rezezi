@@ -1,7 +1,7 @@
 # 🌟 Welcome to Axcel's GitHub! 🌟
 
 <div align="center">
-  <img src="./axcel.jpg" width="150" height="150" style="border-radius: 50%" alt="Axcel's Profile Picture" />
+  <img src="./me.jpg" width="150" height="150" style="border-radius: 50%" alt="Axcel's Profile Picture" />
 </div>
 
 ## 🚀 About Me  
