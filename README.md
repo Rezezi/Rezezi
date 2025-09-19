@@ -1,3 +1,10 @@
+# 🌟 Welcome to Axcel's GitHub! 🌟
+
+<div align="center">
+  <img src="./me.jpg" width="150" height="150" style="border-radius: 50%" alt="Axcel's Profile Picture" />
+</div>
+
+🐍 **Ular Si Penjelajah** — Selamat datang! Jangan kaget kalau ada koin tersembunyi... 👀  
 
 ## 🚀 About Me  
 👋 Hi! I'm **Axcel Rezezi**, a passionate **Backend Developer** & **Game Developer** who loves to code and create amazing digital experiences.
@@ -58,6 +65,11 @@
 - 🎮 I love playing and developing games.  
 - 🏀 I play basketball on weekends.  
 - 🌟 My dream is to create an educational game that makes learning fun!  
+
+---
+
+## 🐍 Snake Eating My Contributions
+![snake gif](https://github.com/rezezi/rezezi/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
