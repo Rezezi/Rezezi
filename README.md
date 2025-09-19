@@ -1,8 +1,3 @@
-# 🌟 Welcome to Axcel's GitHub! 🌟
-
-<div align="center">
-  <img src="./me.jpg" width="150" height="150" style="border-radius: 50%" alt="Axcel's Profile Picture" />
-</div>
 
 ## 🚀 About Me  
 👋 Hi! I'm **Axcel Rezezi**, a passionate **Backend Developer** & **Game Developer** who loves to code and create amazing digital experiences.
