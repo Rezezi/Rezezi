@@ -1,7 +1,7 @@
 # Hi, I'm Rezezi Axcel 👋
 
 <div align="center">
-  <img src="./me.jpg" width="140" height="140" style="border-radius:50%" alt="Rezezi Axcel" />
+  <img src="./me.jpg" width="140" style="border-radius:50%" alt="Rezezi Axcel"/>
 
   <p><i>Web & Backend Developer • Game & Interactive App Enthusiast</i></p>
 </div>
@@ -9,33 +9,33 @@
 ---
 
 ## About Me
-- 💻 Focused on **Web & Backend Development**
-- 🎮 Enjoy building **games & interactive applications**
-- 🌱 Currently learning **Next.js** and **Laravel**
-- 🧠 Curious, consistent, and always improving
+- 💻 Web & Backend Developer  
+- 🎮 Love building games & interactive apps  
+- 🌱 Currently learning **Next.js** & **Laravel**  
+- ⚡ Simple code, clean UI, scalable logic  
 
 ---
 
 ## Tech Stack
 **Languages**  
-PHP • JavaScript • TypeScript
+PHP • JavaScript • TypeScript  
 
-**Frameworks & Libraries**  
-Laravel • Next.js • React
+**Frameworks**  
+Laravel • Next.js • React  
 
 **Tools**  
-Git • Postman • VS Code
+Git • Postman • VS Code  
 
 ---
 
 ## GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rezezi&show_icons=true&theme=graywhite&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Rezezi&show_icons=true&hide_border=true&theme=graywhite" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezezi&layout=compact&theme=graywhite&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezezi&layout=compact&hide_border=true&theme=graywhite" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rezezi&theme=graywhite&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Rezezi&hide_border=true&theme=graywhite" />
 
 </div>
 
@@ -50,6 +50,6 @@ Git • Postman • VS Code
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Rezezi&style=flat&color=000000)
+<img src="https://komarev.com/ghpvc/?username=Rezezi&style=flat&color=000000" />
 
 </div>
