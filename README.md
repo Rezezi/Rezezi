@@ -35,6 +35,12 @@ Git • Postman • VS Code
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezezi&layout=compact&hide_border=true&theme=graywhite" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezezi&theme=graywhite" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rezezi&theme=github-light&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rezezi&theme=flat&no-frame=true&column=4" />
+
 </div>
 
 ---
