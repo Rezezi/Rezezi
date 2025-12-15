@@ -12,7 +12,7 @@
 - 💻 Web & Backend Developer  
 - 🎮 Love building games & interactive apps  
 - 🌱 Currently learning **Next.js** & **Laravel**  
-- ⚡ Simple code, clean UI, scalable logic  
+- ⚡ Clean code, scalable logic  
 
 ---
 
@@ -34,8 +34,6 @@ Git • Postman • VS Code
 <img src="https://github-readme-stats.vercel.app/api?username=Rezezi&show_icons=true&hide_border=true&theme=graywhite" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezezi&layout=compact&hide_border=true&theme=graywhite" />
-
-<img src="https://streak-stats.demolab.com?user=rezezi&hide_border=true&theme=graywhite" />
 
 </div>
 
