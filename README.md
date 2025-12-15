@@ -35,7 +35,7 @@ Git • Postman • VS Code
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezezi&layout=compact&hide_border=true&theme=graywhite" />
 
-<img src="https://streak-stats.demolab.com?user=Rezezi&hide_border=true&theme=graywhite" />
+<img src="https://streak-stats.demolab.com?user=rezezi&hide_border=true&theme=graywhite" />
 
 </div>
 
