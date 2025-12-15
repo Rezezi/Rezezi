@@ -1,50 +1,55 @@
-# 👋 Hi, I'm Rezezi Axcel  
+# Hi, I'm Rezezi Axcel 👋
 
 <div align="center">
-  <img src="./me.jpg" width="150" height="150" style="border-radius: 50%;" alt="Axcel's Profile Picture" />
-</div>  
+  <img src="./me.jpg" width="140" height="140" style="border-radius:50%" alt="Rezezi Axcel" />
+
+  <p><i>Web & Backend Developer • Game & Interactive App Enthusiast</i></p>
+</div>
 
 ---
 
-## 🚀 About Me  
-- 💻 Passionate **Web & Backend Developer**  
-- 🎮 Love creating **Games & Interactive Apps**  
-- 🌱 Currently learning **Next.js & Laravel**  
-- ✨ Always curious about new technologies  
+## About Me
+- 💻 Focused on **Web & Backend Development**
+- 🎮 Enjoy building **games & interactive applications**
+- 🌱 Currently learning **Next.js** and **Laravel**
+- 🧠 Curious, consistent, and always improving
 
 ---
 
-## 🔧 Tech Stack  
-- **Languages**: PHP, JavaScript, TypeScript  
-- **Frameworks**: Laravel, Next.js, React  
-- **Tools**: Git, Postman, VS Code  
+## Tech Stack
+**Languages**  
+PHP • JavaScript • TypeScript
+
+**Frameworks & Libraries**  
+Laravel • Next.js • React
+
+**Tools**  
+Git • Postman • VS Code
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rezezi&show_icons=true&theme=graywhite&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezezi&layout=compact&theme=graywhite&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rezezi&theme=graywhite&hide_border=true)
+
+</div>
+
+---
+
+## Connect With Me
+- 📧 Email: **rezeziaxcel@example.com**
+- 📸 Instagram: [@rezezi_axcel.tsx](https://instagram.com/rezezi_axcel.tsx)
+- 🐙 GitHub: [github.com/Rezezi](https://github.com/Rezezi)
+
+---
 
 <div align="center">
 
-  <!-- Stats utama -->
-  ![Rezezi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rezezi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)  
+![Visitor Count](https://komarev.com/ghpvc/?username=Rezezi&style=flat&color=000000)
 
-  <!-- Top Languages -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezezi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)  
-
-  <!-- Streak Stats -->
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Rezezi&theme=tokyonight&hide_border=true&border_radius=10)  
-
-  <!-- Trophy Stats -->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Rezezi&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
-
-  <!-- Visitor Counter -->
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Rezezi&style=for-the-badge&color=1A1B27)  
-
-</div>  
-
----
-
-## 📫 Connect with Me  
-- 📧 Email: rezeziaxcel@example.com  
-- 📸 Instagram: [@rezezi_axcel.tsx](https://instagram.com/rezezi_axcel.tsx)  
-- 🐙 GitHub: [Rezezi](https://github.com/Rezezi)  
+</div>
