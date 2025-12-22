@@ -94,6 +94,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezezi&layout=compact&hide_border=true&theme=graywhite" width="38%"/>
 </p>
 
+
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://github.com/Rezezi/Rezezi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+</div>
+
+
 ---
 
 <h3 align="center"><code>Mostly Work With</code></h3>
