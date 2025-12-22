@@ -49,9 +49,7 @@
 
 <div align="left">
 
-<img width="35%" align="center"
-src="https://img.icons8.com/ios-filled/100/000000/source-code.png"
-alt="coding"/>
+
 
 <kbd>
 
