@@ -1,76 +1,51 @@
-<div>
-  <h5>
-    <img align="left" src="https://img.shields.io/badge/Developer-Web%20%26%20Backend-black?style=flat-square">
-    <img align="right" src="https://komarev.com/ghpvc/?username=Rezezi&color=000000&style=flat">
-  </h5>
+<div align="center">
+
+<h1>Hi, I'm Rezezi Axcel 👋</h1>
+
+<p><i>Web Developer • Backend Enthusiast • Problem Solver</i></p>
+
+<img src="https://komarev.com/ghpvc/?username=Rezezi&style=flat&color=000000" />
+
 </div>
 
-<br>
+---
 
 <details>
-  <summary align="center">
-    <br>
-    <h3>
-      Click <code>Here</code> to Know More About Me
-    </h3>
-    <br>
-  </summary>
-
----
-
-<div align="left" id="about-me">
-
-<a href="#"><img width="22%" align="right" src="./me.jpg" alt="Rezezi Axcel"></a>
-
-<kbd>
-
-## 👤 Who am I?
-
-### 🔹 Name: **Rezezi Axcel**
-### 🔹 Role: <kbd>💻 Web Developer</kbd> | <kbd>⚙️ Backend Developer</kbd>
-
----
-
-## 💻 What I Do
-
-### 🔹 Building **Web Applications & APIs**
-### 🔹 Working with **Laravel & Modern JavaScript**
-### 🔹 Interested in **System Design & Scalable Apps**
-
----
-
-## 🚀 Currently Learning
-
-### 🔹 **Next.js** (Frontend Architecture)
-### 🔹 **Laravel Advanced Features**
-### 🔹 Clean Code & Best Practices
-
-</kbd>
-
-</div>
+<summary align="center">
+<br>
+<h3>Click <code>Here</code> to know more about me</h3>
+<br>
+</summary>
 
 ---
 
 <div align="left">
 
-<img width="35%" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="coding">
+<img align="right" width="180" src="https://avatars.githubusercontent.com/u/1?v=4" alt="profile-placeholder"/>
 
 <kbd>
 
-### 🌱 Still Improving
-<kbd>🔹 Backend logic & database design</kbd>
+## 👤 About Me
 
-### 🧠 Development Focus
-<kbd>🔹 REST API, Auth, CRUD Systems</kbd>
+- **Name**: Rezezi Axcel  
+- **Focus**: Web & Backend Development  
+- **Main Stack**: Laravel, JavaScript, React  
+- **Interest**: Clean code, scalable systems  
 
-### 🛠 Personal Projects
-<kbd>🔹 POS System, Web Apps, Mini Games</kbd>
+---
 
-### 📦 Open Source
-<kbd>🔹 Learning by building & contributing</kbd>
+## 💻 What I Do
+- Build **web applications & REST APIs**
+- Design **CRUD systems & authentication**
+- Work with **Laravel & modern JS**
+- Learn by **building real projects**
 
-### 🔄 Status
-<kbd>`Actively Growing as a Fullstack Developer`</kbd>
+---
+
+## 🚀 Currently Learning
+- Advanced **Laravel**
+- **Next.js** fundamentals
+- Backend best practices
 
 </kbd>
 
@@ -80,46 +55,46 @@
 
 ---
 
+## 🧠 My Roles
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center"><kbd>💻 Web Developer</kbd></td>
-    <td align="center"><kbd>⚙️ Backend</kbd></td>
-    <td align="center"><kbd>🧠 Problem Solver</kbd></td>
-    <td align="center"><kbd>🚀 Fast Learner</kbd></td>
-  </tr>
-</table>
+| 💻 Web Dev | ⚙️ Backend | 🧩 Problem Solver | 🚀 Fast Learner |
+|-----------|-----------|------------------|----------------|
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rezezi&show_icons=true&hide_border=true&theme=graywhite" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezezi&layout=compact&hide_border=true&theme=graywhite" width="38%"/>
-</p>
-
----
-
-<h3 align="center"><code>Tech I Mostly Use</code></h3>
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/php-icon.svg" width="55"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55"/>
-  <img src="https://techstack-generator.vercel.app/laravel-icon.svg" width="55"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55"/>
-</p>
-
----
-
+## 📊 GitHub Stats (Stable & Safe)
 <div align="center">
 
-### 📫 Connect With Me
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rezezi&show_icons=true&hide_border=true&theme=graywhite" />
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezezi&layout=compact&hide_border=true&theme=graywhite" />
+
+</div>
+
+---
+
+## 📈 Contribution Overview
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezezi&theme=graywhite" />
+
+</div>
+
+---
+
+<h3 align="center"><code>Tech Stack</code></h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,mysql,git,github&theme=light" />
+</p>
+
+---
+
+## 📫 Connect With Me
+<div align="center">
 
 <a href="https://github.com/Rezezi">
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="35"/>
@@ -133,4 +108,10 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="35"/>
 </a>
 
+</div>
+
+---
+
+<div align="center">
+<i>“Learning by building. Improving every day.”</i>
 </div>
