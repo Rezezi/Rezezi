@@ -98,13 +98,7 @@
 
 ---
 
-<div align="center">
 
-### 🐍 Contribution Snake
-
-<img src="https://github.com/Rezezi/Rezezi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-</div>
 
 
 ---
